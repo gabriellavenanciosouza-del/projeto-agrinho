@@ -1,18 +1,28 @@
-# projeto-agrinho tem como objetivo criar uma ferramenta interativa para agricultores, estudantes e interessados em agricultura, permitindo que eles recebam dicas, curiosidades e informações práticas sobre culturas, irrigação, fertilização e manejo do solo. O projeto visa tornar o aprendizado sobre agricultura mais acessível, didático e divertido, por meio de uma interface simples de chat que simula uma conversa com um assistente virtual.
+## AgriNho Chat
 
-Funcionalidades:
+## Breve descrição
+O AgriNho Chat é um aplicativo interativo que auxilia agricultores e interessados em agricultura a aprender dicas e curiosidades sobre culturas, irrigação, adubação e manejo do solo. O usuário pode digitar palavras-chave relacionadas à agricultura e receber respostas automáticas em um chat, tornando o aprendizado mais acessível e divertido. O projeto utiliza HTML para a estrutura, CSS para o design e JavaScript para a lógica de interação.
 
-Chat interativo onde o usuário digita palavras-chave e recebe dicas ou curiosidades sobre agricultura.
-Mensagens do usuário e do bot aparecem de forma organizada, simulando uma conversa.
-Sugestão de palavras-chave caso o usuário digite algo fora do banco de respostas.
+## Objetivo
+O AgriNho Chat tem como objetivo auxiliar agricultores e pessoas interessadas na agricultura por meio de um chat interativo que fornece dicas e informações sobre plantio, irrigação, adubação e cuidados com diferentes culturas. O projeto busca incentivar o uso da tecnologia no campo e facilitar o acesso ao conhecimento agrícola.
 
-Tecnologias utilizadas:
+## Funcionalidades
+Chat interativo para comunicação com o usuário.
+Respostas automáticas sobre temas agrícolas.
+Informações sobre culturas, irrigação e adubação.
+Interface simples e fácil de usar.
+Sugestão de palavras-chave para facilitar a pesquisa.
 
-HTML para a estrutura da página.
-CSS para o design e layout visual.
-JavaScript para a lógica do chat e respostas automáticas.
+## Tecnologias utilizadas
+HTML: estrutura da página.
+CSS: estilização e organização visual.
+JavaScript: funcionamento do chat e respostas automáticas.
 
-Fontes:
+## Fontes utilizadas
+Conhecimentos gerais sobre agricultura, incluindo informações sobre trigo, milho, feijão, irrigação e adubação.
+Documentação oficial das tecnologias utilizadas:
+MDN Web Docs (HTML, CSS e JavaScript).
+Conteúdos educativos sobre práticas agrícolas sustentáveis.
 
-Conhecimentos gerais sobre agricultura (trigo, milho, feijão, irrigação e adubação).
-Documentação oficial de HTML, CSS e JavaScript (MDN Web Docs).
+## Considerações finais
+Este projeto demonstra como a tecnologia pode contribuir para o compartilhamento de informações no setor agrícola, oferecendo uma ferramenta simples, educativa e acessível para produtores rurais e estudantes interessados no tema.
